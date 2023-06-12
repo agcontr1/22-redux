@@ -1,9 +1,6 @@
 {
   "name": "mern-shopping",
   "version": "1.0.0",
-   "engine" : {
-    "node": "16.13.0"
-  }
   "description": "",
   "main": "server/server.js",
  
@@ -19,6 +16,9 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  }
+   "engine" : {
+    "node": "16.13.0"
   }
  
 }
